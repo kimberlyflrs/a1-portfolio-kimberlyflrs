@@ -1,0 +1,12 @@
+h1, h2, h3{
+  text-align: center;
+}
+
+#main_nav {
+  background-color: #eff0f2;
+  text-align: center;
+}
+
+ul{
+  text-align:right;
+}
