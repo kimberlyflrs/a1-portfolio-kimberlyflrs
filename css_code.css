@@ -1,12 +1,48 @@
-h1, h2, h3{
+h2, h3{
   text-align: center;
 }
 
-#main_nav {
-  background-color: #eff0f2;
-  text-align: center;
+#about{
+  background-image: url("https://wallpaper-house.com/data/out/10/wallpaper2you_419505.jpg");
+  padding:50px 50px;
+  background-size: cover;
+
+}
+h2{
+  font-size: 35px;
+  color: white;
+}
+
+.main{
+  background-color: black;
+  color: white;
+  z-index: 
+
 }
 
 ul{
   text-align:right;
+  margin:0;
+  padding:0;
+}
+
+li{
+  display:inline;
+  padding:20px 20px;
+  font-size: 20px;
+  margin-bottom: 20px;
+}
+
+li a{
+  text-decoration: none;
+  font-family: courier;
+  color:white;
+}
+
+li p{
+  text-align:left;
+}
+
+body{
+  background-color: #f7faff;
 }
