@@ -1,16 +1,30 @@
 #Navigation{
   font-size:25px;
+  color:white;
+  background-color: #585b5a;
 }
 
 ul{
     text-align: right;
-    font-family: Courier;
 }
 li{
   display:inline;
   padding: 20px 20px;
 }
 
+li a{
+  color: white;
+}
+
 #Introduction{
   text-align: center;
+  padding: 100px;
+  font-size: 30px;
+  background-color:#b5f4e3;
+}
+
+#WorkSection{
+  text-align: center;
+  padding: 40px;
+  font-size: 25px;
 }
