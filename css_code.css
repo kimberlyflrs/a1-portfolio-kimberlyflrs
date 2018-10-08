@@ -1,7 +1,16 @@
+#Navigation{
+  font-size:25px;
+}
+
 ul{
     text-align: right;
+    font-family: Courier;
 }
 li{
   display:inline;
   padding: 20px 20px;
+}
+
+#Introduction{
+  text-align: center;
 }
