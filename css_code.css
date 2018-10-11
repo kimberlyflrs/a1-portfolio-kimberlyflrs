@@ -4,16 +4,12 @@
   background-color: #585b5a;
 }
 
-ul{
-    text-align: right;
-}
-li{
-  display:inline;
-  padding: 20px 20px;
+.nav{
+  background-color: black;
 }
 
-li a{
-  color: white;
+.nav-link{
+  color:white;
 }
 
 #Introduction{
@@ -29,13 +25,46 @@ li a{
   font-size: 25px;
 }
 
-#footer{
+footer{
   text-align: center;
   padding: 30px;
   background-color:#585b5a;
+  color:white;
 }
 
 .info{
   text-align: center;
   padding: 30px;
+}
+
+img{
+  text-align: center;
+  padding: 30px;
+  max-width:100%;
+  height:auto;
+}
+
+html{
+  height:100%;
+}
+
+body{
+  min-height: 100%;
+}
+
+p{
+  text-align: center;
+  padding: 10px;
+}
+
+button{
+  padding: 20px;
+}
+
+#aboutme{
+  padding: 40px;
+}
+
+#btn{
+  margin:15px;
 }
