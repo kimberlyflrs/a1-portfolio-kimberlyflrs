@@ -1,7 +1,5 @@
-#Navigation{
-  font-size:25px;
-  color:white;
-  background-color: #585b5a;
+html, body{
+  height:100%;
 }
 
 .nav{
@@ -27,10 +25,10 @@
 
 footer{
   text-align: center;
-  padding: 30px;
   background-color:#585b5a;
   color:white;
 }
+
 
 .info{
   text-align: center;

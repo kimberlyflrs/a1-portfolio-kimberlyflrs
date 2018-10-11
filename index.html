@@ -14,9 +14,11 @@ EMAIL: kimbermf@uci.edu
 
    <!--BootStrap-->
    <meta name="viewport" content="width=device-width, initial-scale=1">
-   <link rel="stylesheet" href="css/bootstrap.min.css">
-   <link rel="stylesheet" href="css/override.css">
    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+
+   <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+   <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
+   <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
 
    <!--End BootStrap-->
 
@@ -24,11 +26,18 @@ EMAIL: kimbermf@uci.edu
 </head>
 
 <body>
+
+  <!--navigation bar-->
   <nav class="nav">
     <a class="navbar-brand" href="index.html">KMF</a>
     <ul class="nav justify-content-end">
-      <li class="nav-item">
-        <a class="nav-link active" href="#">Work</a>
+      <li class="nav-item dropdown">
+        <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-hasppopup="true" aria-expanded="false">Work</a>
+        <div class="dropdown-menu">
+          <a class="dropdown-item" href="#">Code</a>
+          <a class="dropdown-item" href="#">UI/UX</a>
+          <a class="dropdown-item" href="#">Design</a>
+        </div>
       </li>
       <li class="nav-item">
         <a class="nav-link" href="aboutme.html">About Me</a>
@@ -41,11 +50,13 @@ EMAIL: kimbermf@uci.edu
   </nav>
 
     <!--Introduction-->
-    <div class="row" id=Introduction>
-      <div class="col-12">
-        <p>Hi! <br>My name is Kim.<br>I am an aspiring front-end designer.</p>
+    <div class="container-fluid">
+      <div class="row" id=Introduction>
+        <div class="col-12">
+          <p>Hi! <br>My name is Kim.<br>I am an aspiring front-end designer.</p>
+        </div>
       </div>
-    </div>
+
 
     <!--Work-->
     <div class="row" id=WorkSection>
@@ -78,13 +89,19 @@ EMAIL: kimbermf@uci.edu
 
     <!--Links/buttons-->
     <div class="row">
-      <div class="col-4">View button</div>
-      <div class="col-4">View button</div>
-      <div class="col-4">View button</div>
+      <div class="col-4">
+        <button type="button" class="btn btn-outline-primary" id=btn>
+          <a href="">View More</button></div>
+      <div class="col-4">
+        <button type="button" class="btn btn-outline-primary" id=btn>
+        <a href="">View More</button></div>
+      <div class="col-4">
+        <button type="button" class="btn btn-outline-primary" id=btn>
+        <a href="">View More</button></div>
     </div>
 
     </div>
-
+  </div>
     <!--footer-->
     <div class="row" id=footer>
 
