@@ -28,7 +28,7 @@ Talking to classmates about class material, assignment requirements, etc. is a g
 
 
 2. How long, in hours, did it take you to complete this assignment?
-~6 days with 1 week reading tutorials
+~6 days coding with 1 week reading tutorials
 
 
 3. What online resources did you consult when completing this assignment? (list specific URLs)
@@ -39,6 +39,7 @@ Talking to classmates about class material, assignment requirements, etc. is a g
 -White edge on right side of screen problem fixed: https://stackoverflow.com/questions/4617872/white-space-showing-up-on-right-side-of-page-when-background-image-should-extend
 -Video Image fallback: https://stackoverflow.com/questions/14616453/image-placeholder-fallback-for-html5-video
 -fonts:https://fonts.google.com/
+-Bootstrap lecture slides
 
 
 4. What classmates or other individuals did you consult as part of this assignment? What did you discuss?
@@ -47,3 +48,4 @@ I did not discuss this assignment with anyone
 
 
 5. Is there anything special we need to know in order to run your code?
+N/A
