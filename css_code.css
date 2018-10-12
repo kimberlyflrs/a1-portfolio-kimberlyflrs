@@ -96,9 +96,25 @@ h4{
     background: url(binary.png);
 }
 
-.workpages p{
-  text-align:left;
+
+
+.designpage{
+  background: url(paintbrush.png);
+  padding: 80px;
+}
+
+.designpage p, .workpages p, .uiuxpage p{
+  text-align: left;
   font-size: 50px;
+}
+
+.uiuxpage{
+  background: url(laptop.jpg);
+  padding: 80px;
+}
+
+.construction, .contact{
+  text-align:center;
 }
 
 #videos {
