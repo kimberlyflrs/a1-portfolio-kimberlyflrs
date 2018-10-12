@@ -41,6 +41,15 @@ Talking to classmates about class material, assignment requirements, etc. is a g
 -fonts:https://fonts.google.com/
 -Bootstrap lecture slides
 
+Code icon: https://www.shareicon.net/tag/coding?p=14
+UX icon:https://apkpure.com/learn-ux/com.theuserhub.learnux
+Design icon:https://www.iconfinder.com/icons/202311/design_pen_ruler_icon
+sand gif: https://static1.squarespace.com/static/53a09adfe4b050b5ad5bf107/589b0198db29d6b63e0654af/589c78dbd2b85771b5baa039/1486649590993/sand.gif
+laptop background: https://ybox.vn/ky-nang/sinh-vien-can-lam-gi-khi-bi-mat-laptop-n7decu4oxo
+code background:http://pluspng.com/png-136458.html
+design background:http://www.alivenaperville.com/donate/art-supplies-sm
+under construction gif: https://giphy.com/gifs/CBeebiesHQ-painting-diy-Yj6d4OMmDV3bnYtOow
+typing gif:https://giphy.com/gifs/love-mini-hanger-HoffxyN8ghVuw
 
 4. What classmates or other individuals did you consult as part of this assignment? What did you discuss?
 I did not discuss this assignment with anyone
