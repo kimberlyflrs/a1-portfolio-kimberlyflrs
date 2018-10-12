@@ -13,12 +13,12 @@ Talking to classmates about class material, assignment requirements, etc. is a g
 (a) Basic features
  - an image with an alt
  - appropriate headings and paragraph text
- -links to external pages
+ -semantic tags like footer
  -multiple pages, with appropriate navigation between them
 
 (b) CSS features
 - modifying link, text color
-- modifying padding
+- modifying padding, margin
 -custom fonts
 
 
